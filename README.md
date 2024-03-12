@@ -1,6 +1,7 @@
 # ESLint Config
 
-> TELUS Flavour ESLint [config][shared-config].  
+> TELUS Flavour ESLint [config][shared-config].
+>
 > We inherit from the excellent [Standard config][eslint-config-standard] and
 > [Standard with TypeScript config][eslint-config-standard-ts] and added some
 > more strict requirements.
