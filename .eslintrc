@@ -2,8 +2,7 @@
   "overrides": [
     {
       "extends": "./index.js",
-      "files": ["*.js"],
-      "excludedFiles": "./typescript/index.js"
+      "files": ["*.js"]
     }
   ]
 }
