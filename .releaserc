@@ -1,3 +1,5 @@
 {
-  "extends": "@telus/semantic-release-config"
+  "branches": [
+    "main"
+  ]
 }
